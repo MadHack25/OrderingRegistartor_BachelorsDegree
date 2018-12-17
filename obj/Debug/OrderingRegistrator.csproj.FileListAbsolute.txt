@@ -1,0 +1,70 @@
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\OrderingRegistrator.exe.config
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\OrderingRegistrator.exe
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\OrderingRegistrator.pdb
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.Form1.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.Properties.Resources.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.csproj.GenerateResource.Cache
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.exe
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.pdb
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\EntityFramework.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\System.Data.SQLite.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\EntityFramework.xml
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\System.Data.SQLite.xml
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.customClearanse.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\Newtonsoft.Json.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\bin\Debug\Newtonsoft.Json.xml
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.txtbxsellerInfo.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.Tools.StatusOrganizers.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.PriceCalculator.resources
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\OrderingRegistrator.exe.config
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.exe
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.pdb
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\OrderingRegistrator.exe
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\OrderingRegistrator.pdb
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\EntityFramework.dll
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\EntityFramework.SqlServer.dll
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\Newtonsoft.Json.dll
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\System.Data.SQLite.dll
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\EntityFramework.xml
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\EntityFramework.SqlServer.xml
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\Newtonsoft.Json.xml
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\bin\Debug\System.Data.SQLite.xml
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.csprojResolveAssemblyReference.cache
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.customClearanse.resources
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.Form1.resources
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.PriceCalculator.resources
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.Properties.Resources.resources
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.txtbxsellerInfo.resources
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.Tools.StatusOrganizers.resources
+D:\Inform C++\ORDERING REGISTRATOR VERSIONS\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.csproj.GenerateResource.Cache
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OrderingRegistrator_SQLITE\OrderingRegistrator\OrderingRegistrator\obj\Debug\OrderingRegistrator.csprojResolveAssemblyReference.cache
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\OrderingRegistrator.exe.config
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\OrderingRegistrator.exe
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\OrderingRegistrator.pdb
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\EntityFramework.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\Newtonsoft.Json.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\System.Data.SQLite.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\EntityFramework.xml
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\Newtonsoft.Json.xml
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\bin\Debug\System.Data.SQLite.xml
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.customClearanse.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.Form1.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.PriceCalculator.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.Properties.Resources.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.txtbxsellerInfo.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.Tools.StatusOrganizers.resources
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.csproj.GenerateResource.cache
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.csproj.CoreCompileInputs.cache
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.csproj.CopyComplete
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.exe
+D:\Programming (R) Ultimate\Informatics 4EverHere\C#\C# BacheLorsApp_OrderingManager\OR_noYQL\OrderingRegistrator\obj\Debug\OrderingRegistrator.pdb
